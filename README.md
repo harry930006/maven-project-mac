@@ -1,2 +1,3 @@
-# maven-project-mac
-first maven project on mac
+# maven-project
+Source code for Sunny's Jenkins course at Udemy.
+
